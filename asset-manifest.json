@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodwebsite/static/css/main.781d8794.css",
+    "main.js": "/foodwebsite/static/js/main.650c11b1.js",
+    "static/media/product4.jpg": "/foodwebsite/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/foodwebsite/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/portfolio.jpg": "/foodwebsite/static/media/portfolio.37317f30bbee54e203b3.jpg",
+    "static/media/hero.jpg": "/foodwebsite/static/media/hero.160610bbf5f99adb33b3.jpg",
+    "static/media/product3.jpg": "/foodwebsite/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/foodwebsite/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/avatar4.jpg": "/foodwebsite/static/media/avatar4.21e6a002d901f9596c49.jpg",
+    "static/media/avatar2.jpg": "/foodwebsite/static/media/avatar2.fe0b2671d94c2bec6cab.jpg",
+    "static/media/avatar3.jpg": "/foodwebsite/static/media/avatar3.bb41d9503ce168371450.jpg",
+    "static/media/HeroDesign.png": "/foodwebsite/static/media/HeroDesign.70d4607cd228844ffa52.png",
+    "index.html": "/foodwebsite/index.html",
+    "main.781d8794.css.map": "/foodwebsite/static/css/main.781d8794.css.map",
+    "main.650c11b1.js.map": "/foodwebsite/static/js/main.650c11b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781d8794.css",
+    "static/js/main.650c11b1.js"
+  ]
+}
